@@ -1,5 +1,5 @@
 # wordpress customer support
-title: Badrul Farhad
+title: Badrul Farhads
 twitter_username: badrul_farhad
 name: Badrul Farhad
  - title: Blog
