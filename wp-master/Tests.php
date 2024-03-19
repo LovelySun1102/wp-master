@@ -4,6 +4,7 @@ class WPNonceTest extends \PHPUnit_Framework_TestCase
 {
     public function test_wp_nonce_ays_oop($action='log-out') {
         $WPNonce = new WPNonce();
+        
         $nonceAys = $WPNonce -> wp_nonce_ays_oop($action='log-out');
         $this->assertEquals(1, $nonceAys);
     }
